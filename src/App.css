@@ -1,0 +1,22 @@
+img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.mansonry-grid {
+  display: grid;
+  grid-template-columns: 100%;
+  gap: 15px;
+  grid-auto-rows: 16px;
+}
+@media (min-width: 640px) {
+  .mansonry-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+@media (min-width: 900px) {
+  .mansonry-grid {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
