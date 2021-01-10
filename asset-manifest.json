@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/masonry-grid/static/css/main.80eb2a92.chunk.css",
-    "main.js": "/masonry-grid/static/js/main.8f970521.chunk.js",
-    "main.js.map": "/masonry-grid/static/js/main.8f970521.chunk.js.map",
+    "main.js": "/masonry-grid/static/js/main.d082d884.chunk.js",
+    "main.js.map": "/masonry-grid/static/js/main.d082d884.chunk.js.map",
     "runtime-main.js": "/masonry-grid/static/js/runtime-main.78275f0d.js",
     "runtime-main.js.map": "/masonry-grid/static/js/runtime-main.78275f0d.js.map",
     "static/js/2.cf757a2a.chunk.js": "/masonry-grid/static/js/2.cf757a2a.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.78275f0d.js",
     "static/js/2.cf757a2a.chunk.js",
     "static/css/main.80eb2a92.chunk.css",
-    "static/js/main.8f970521.chunk.js"
+    "static/js/main.d082d884.chunk.js"
   ]
 }
